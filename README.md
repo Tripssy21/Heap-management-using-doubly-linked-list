@@ -1,4 +1,3 @@
-# Heap-management-using-doubly-linked-list
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
